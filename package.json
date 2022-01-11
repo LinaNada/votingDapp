@@ -1,0 +1,15 @@
+{
+  "name": "voting-dapp",
+  "version": "1.0.0",
+  "description": "my first dapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "web3": "^1.6.1"
+  },
+  "author": "Lina",
+  "license": "MIT",
+}
